@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f55fae23-2b39-4860-a4a7-2ae2375bacf7" name="10.28.124.126" url="http://10.28.124.126:8000/book/admin/">
+        <fileTransfer host="10.28.124.126" port="22" rootFolder="/home/workspace/autoMagic/automagic" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
